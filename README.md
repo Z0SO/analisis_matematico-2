@@ -1,3 +1,11 @@
+# Hola!
+- Este apunte esta dedicado a aquellos estudiantes que deseen aprender en serio los fundamentos del calculo multivariable.
+- Esta armado tomando como referencia los que a mi parecer son los 4 mejores libros sobre este tema.
+- Es posible que a lo largo del desarrollo de este apunte todavia quedan huecos por llenar, lo cual me serviria de mucha ayuda tu granito de arena agregando cosas que consideres importante
+- Si deseas colaborar en este proyecto puedes contactarte conmigo o enviar un correo a `lautarorobales31@gmail.com` proporcionandome tu usuario de GitHub o tu e-mail.
+
+---
+
 # Tutorial para Descargar y Usar Obsidian en Windows
 
 ## Paso 1: Descargar Obsidian
